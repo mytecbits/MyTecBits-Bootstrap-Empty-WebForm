@@ -7,7 +7,6 @@
         <p class="lead">Bootstrap is a free UI framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
         <p><a href="#" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
-
     <div class="row">
         <div class="col-md-4">
             <h2>Getting started</h2>
